@@ -1,0 +1,7 @@
+site:www.sogou.com
+site:discord.com
+site:web.telegram.org
+site:web.skype.com
+site:web.slcak.app
+site:smscodes.io
+site:web.whatsapp.com

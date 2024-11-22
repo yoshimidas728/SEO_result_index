@@ -1,0 +1,7 @@
+site:www.sogou.com: 46200
+site:discord.com: 439000
+site:web.telegram.org: 4
+site:web.skype.com: 0
+site:web.slcak.app: 0
+site:smscodes.io: 77900
+site:web.whatsapp.com: 1
